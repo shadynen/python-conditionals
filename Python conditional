@@ -1,0 +1,7 @@
+x=20
+if x<10:
+	print("you are too young")
+elif x==10:
+	print("we need you")
+else:
+	print("You are on the reserve list")
